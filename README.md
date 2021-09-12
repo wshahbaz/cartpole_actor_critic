@@ -8,7 +8,7 @@ In Carpole-v0, there are four values representing the state: cart position, cart
 
 After training our model, we acheive an agent that can successfully balance the pole on the cart consistently for at least 200 time units:
 
-![pole balancing on cart](/carpole-v0.gif)
+![pole balancing on cart](cartpole-v0.gif)
 
 
 
