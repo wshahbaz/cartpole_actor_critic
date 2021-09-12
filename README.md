@@ -10,6 +10,8 @@ After training our model, we acheive an agent that can successfully balance the 
 
 ![pole balancing on cart](cartpole-v0.gif)
 
+### References:
+- [Actor-Critic Algorithms](https://papers.nips.cc/paper/1999/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
 
 
 
